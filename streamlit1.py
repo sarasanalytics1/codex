@@ -69,6 +69,7 @@ import openai
 api_key = "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"
 openai.api_key = api_key
 
+
 # Function to send a message to the OpenAI chatbot model and return its response
 def send_message(message_log):
     # Use OpenAI's ChatCompletion API to get the chatbot's response
