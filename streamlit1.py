@@ -66,7 +66,7 @@ def get_sql_result(q):
 import openai
 
 # Set up OpenAI API key
-api_key = "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"
+api_key = "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"
 openai.api_key = api_key
 
 
