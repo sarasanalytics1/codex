@@ -66,7 +66,7 @@ def get_sql_result(q):
 import openai
 
 # Set up OpenAI API key
-api_key = "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"
+api_key = "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"
 openai.api_key = api_key
 
 # Function to send a message to the OpenAI chatbot model and return its response
