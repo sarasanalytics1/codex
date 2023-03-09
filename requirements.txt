@@ -9,8 +9,8 @@ google-auth-oauthlib==0.4.6
 google-cloud-bigquery
 google-cloud-bigquery-storage==2.19.0
 google-cloud-core==1.4.1
-google-cloud-datastore==1.15.0
-google-cloud-storage==2.7.0
+google-cloud-datastore
+google-cloud-storage
 google-crc32c 
 google-pasta==0.2.0
 google-play-scraper==1.2.2
